@@ -1,0 +1,137 @@
+/* 1st part */
+@import url("https://cdn.web-fonts.ge/fonts/archyedt-bold/css/archyedt-bold.min.css");
+
+.container {
+    width: 1088px;
+    margin-right: auto;
+    margin-left: auto;  
+}
+
+.fish-small {
+    vertical-align: middle;
+}
+
+.cupcake-small {
+    vertical-align: middle;
+}
+
+.main-text {
+    font-family: "ArchyEDT-Bold", sans-serif;
+    font-size: 42px;
+}
+
+.blue-header {
+    margin-top: 82px;
+    color: #5863F8;
+    font-size: 14px;
+    font-family: "ArchyEDT-Bold", sans-serif;
+}
+
+.first-paragraph {
+    display: inline-block;
+    width: 233px;
+}
+
+.left-block {
+    width: 536px;
+    background-color: #F8F8F8;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;  
+}
+
+.right-block {
+    width: 536px;
+    display: inline-block;
+    background-color: #BE2B2B;
+    vertical-align: top;
+    margin-top: 50px;
+}
+
+.blue-text1 {
+    color: #5863F8;
+    font-size: 14px;
+    margin-left: 16px;
+    font-family: "BPG Nostalgia", sans-serif;
+}
+
+.food-type {
+    font-size: 18px;
+    color: #000000;
+    margin-left: 16px;
+    font-family: "BPG Nostalgia", sans-serif;
+}
+
+.description {
+    width: 260px;
+    font-size: 14px;
+    color: #B1B1B1;
+    font-family: "BPG Nostalgia", sans-serif;
+    margin-left: 16px;
+    margin-top: 10px;
+    /* margin-top mitisebisas zeda 2 texts cevs maghla imis magivrad ro chamoicios qvemot */
+}
+
+/* 2nd part */
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Style+Script&display=swap');
+
+
+.left-block2 {
+    width: 352px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+}
+
+.middle-block {
+    width: 352px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+}
+
+.right-block2 {
+    width: 352px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+}
+
+.main-text2 {
+    font-size: 42px;
+    font-family: 'Style Script', cursive
+}
+
+.blue-header2 {
+    margin-top: 102px;
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.blue-text2 {
+    color: #5863F8;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 23px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.food-type2 {
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.description2 {
+    font-size: 14px;
+    color: #B1B1B1;
+    text-align: center;
+    width: 260px;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-family: 'Indie Flower', cursive;
+}
